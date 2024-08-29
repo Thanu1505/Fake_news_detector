@@ -1,6 +1,4 @@
 # Fake_news_detector
-
-# Fake News Detection System
 --A Natural Language Processing (NLP) based system for detecting fake news articles, utilizing a Decision Tree Classifier and TF-IDF vectorization.
 
 # Project Overview
